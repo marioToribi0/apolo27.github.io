@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rover2019", {data:[{}],fetch:[],mutations:void 0});
